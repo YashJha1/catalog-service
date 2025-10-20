@@ -1,0 +1,5 @@
+/home/yash/Microservices/catalog-service/src/main/java/com/eci/catalogservice/CatalogServiceApplication.java
+/home/yash/Microservices/catalog-service/src/main/java/com/eci/catalogservice/controller/ProductController.java
+/home/yash/Microservices/catalog-service/src/main/java/com/eci/catalogservice/model/Product.java
+/home/yash/Microservices/catalog-service/src/main/java/com/eci/catalogservice/repository/ProductRepository.java
+/home/yash/Microservices/catalog-service/src/main/java/com/eci/catalogservice/service/ProductService.java

@@ -1,0 +1,5 @@
+com/eci/catalogservice/service/ProductService.class
+com/eci/catalogservice/model/Product.class
+com/eci/catalogservice/repository/ProductRepository.class
+com/eci/catalogservice/CatalogServiceApplication.class
+com/eci/catalogservice/controller/ProductController.class
